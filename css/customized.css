@@ -1,0 +1,18 @@
+.main-body-div{
+    margin: 50px auto 0;
+    border-right: #0f0f0f solid 2px;
+    border-left: #0f0f0f solid 2px;
+}
+
+.paragraph-page-div{
+    margin: 25% auto 0;
+    width: 1000px;
+    height: 350px;
+    background: rgba(255, 255, 255, 0.4);
+}
+
+.paragraph-page-body{
+    background-image: url("../pics/background.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
